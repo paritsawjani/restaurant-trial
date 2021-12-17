@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Nevis";
+    src: url("fonts/Nevis/NevisBold-KGwl.ttf") format("truetype");
+  }
+
+.about-us {
+    background: #FFFFFF;
+    width: 70%;
+    margin: 0 15%;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+
+  .about-us p {
+      font-family: Nevis;
+  }
+
+  .col {
+      text-align:center;
+      margin-top: 2%;
+  }
+
+  .social ul li {
+    display: inline-block;
+    padding-right: 5px !important;
+  }
+
+  .clearfix {
+    clear: both;
+  }
